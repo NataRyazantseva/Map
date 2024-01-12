@@ -1,2 +1,3 @@
-# Map
-Try to work with maps
+# web_data_viz
+
+https://konstantinosenov.github.io/web_data_viz/
